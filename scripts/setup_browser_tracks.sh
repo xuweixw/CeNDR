@@ -38,3 +38,5 @@ zip_index browser/elegans_gene.WS276.bed
 # Copy tracks to browser
 gsutil cp browser/* gs://elegansvariation.org/browser_tracks
 
+echo "Hello"
+
